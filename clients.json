@@ -7,9 +7,16 @@
     "title": "1.21.4",
     "description": "Клиент 1.21.4",
     "folder": "Client_1_21_4",
-    "downloadUrl": "https://www.dropbox.com/scl/fi/zt7q3smsjp94toifpviea/NexusClient.zip?rlkey=n5oeet90rlq35vc4ecw8vb72d&st=r9avy3q3&dl=1",
-    "launchType": "exe",
-    "exePath": "NexusClient.exe",
+    "downloadUrl": "https://www.dropbox.com/scl/fi/bqqtwondju4lijz3oge0p/client.zip?rlkey=sp4aq2qxlpx55kz10dqclvv65&st=y4704uj0&dl=1",
+    "launchType": "java",
+    "jarPath": "Client/client.jar",
+    "classpath": "Client/libraries;Client/client.jar",
+    "nativesPath": "Client/natives",
+    "assetsDir": "Client/assets"
+    "assetIndex": "1.21",
+    "mcVersion": "1.21.4",
+    "mainClass": "net.minecraft.client.main.Main",
+    "gameDir": "game",
     "backgroundUrl": "",
     "sizeBytes": 0
   }
